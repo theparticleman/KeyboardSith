@@ -7,9 +7,11 @@ Learning keyboard shortcuts is a great way to increase your productivity, whatev
 
 After starting the application, disable the mouse by pushing CTRL+Shift+ALT+F11. That will force your mouse cursor to stay within the bounds of the Keyboard Sith window. You can use the same shortcut to release the cursor. There is a system tray icon you can glance at to let you know if the cursor is captured (red light saber) or free (blue light saber). When you free the mouse you even get a handy little message to help encourage you to use the keyboard more:
 
+```
 Peace is a lie; there is only passion.
 Through passion, I gain strength.
 Through strength, I gain power.
 Through power, I gain victory.
 Through victory, my chains are broken.
 The Keyboard shall free me.
+```
